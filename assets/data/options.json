@@ -1,0 +1,17 @@
+{
+    "skipVictoryScreen": false,
+    "skipModifierMenu": false,
+    "alwaysDoCutscenes": false,
+    "useCustomInput": false,
+    "ignoreShittyTiming": false,
+    "DJFKKeys": false,
+    "allowEditOptions": true,
+    "useSaveDataMenu": true, 
+    "downscroll": false,
+    "preferredSave": 0,
+    "showSongPos": true,
+    "style": true,
+    "stressTankmen": false,
+    "ignoreUnlocks": false,
+    "judge": 9
+}
